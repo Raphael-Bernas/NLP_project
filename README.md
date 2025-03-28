@@ -2,6 +2,9 @@
 # (Project 6 for the course "Speech and natural language processing")
 https://github.com/chloedaphne/MVA_2025_SNLP/
 
+## Original paper
+These works mainly rely on "Augmentation Invariant Discrete Representation for Generative Spoken Language Modeling" by Itai Gat, Felix Kreuk et al.
+
 ## Notebook
 In the notebook `NLP-project.ipynb` you can find our code used for this project.
 The code is divided in 7 parts which have each been done by one of us.
@@ -27,8 +30,8 @@ e)	To implement new augmentation (corruption and volume change) [Emilie]
 
 f)	To test models on the original settings [Emilie]
 
-g)	To test new architecture of quantizer for E1 (change the MLP based method) [Raphael]
+g)	To test new models [Maxime]
 
-h)	To test new models [Emilie & Raphael & Maxime]
+h)	To suggest other metric, mainly reform the UED metric and Levenshtein distance using Dynamic Time Warping [Adrien] 
 
-i)	To suggest other metric, mainly reform the UED metric and Levenshtein distance using Dynamic Time Warping [Adrien] 
+i)	To test new architecture of quantizer for E1 (change the MLP based method) [Raphael]
