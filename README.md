@@ -18,20 +18,20 @@ Raphaël Bernas (ENSTA-MVA), Maxime Corlay (ENSTA-MVA), Adrien Letellier (ENSAE-
 
 ## Task repartion :
 
-a)	To recode the encoder part to have the basics [Adrien]
+a)	To recode the encoder part to have the basics [Adrien] -> part 1
 
-b)	To recode the quantizer part with the training method introduced in their paper [Raphaël]
+b)	To recode the quantizer part with the training method introduced in their paper [Raphaël] -> part 2
 
-c)	To recode testing methods: UED and ABX [Raphaël]
+c)	To recode testing methods: UED and ABX [Raphaël] - > part 2
 
-d)	To implement general augmentation and some more [Maxime]
+d)	To implement general augmentation and some more [Maxime] -> part 3
 
-e)	To implement new augmentation (corruption and volume change) [Emilie]
+e)	To implement new augmentation (corruption and volume change) [Emilie] -> part 4
 
-f)	To test models on the original settings [Emilie]
+f)	To test models on the original settings [Emilie] -> part 4
 
-g)	To test new models [Maxime]
+g)	To test new models [Maxime] -> part 5
 
-h)	To suggest other metric, mainly reform the UED metric and Levenshtein distance using Dynamic Time Warping [Adrien] 
+h)	To suggest other metric, mainly reform the UED metric and Levenshtein distance using Dynamic Time Warping [Adrien] -> part 6
 
-i)	To test new architecture of quantizer for E1 (change the MLP based method) [Raphael]
+i)	To test new architecture of quantizer for E1 (change the MLP based method) [Raphael] -> part 7
